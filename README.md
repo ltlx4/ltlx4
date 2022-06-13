@@ -1,12 +1,15 @@
-### Hi there 👋
+## Full Stack Developer
+
+` 😄 Tawfiq Said` |  `🌱  Hungary` 
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="900" height="600"/>
 </div>
 
 My name is Tawfiq and I'm a Full-Stack developer.
 - 🔭 I’m currently working on web application development.
 - ⚡ Fun fact: Computer Was A Job Title.
 
+<img src="https://avatars3.githubusercontent.com/u/357098" width="20" height="20" alt="linkedin logo"/> `linkedin.com/in/tawfiqsaid/`
 ### Languages
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
