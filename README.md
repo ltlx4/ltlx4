@@ -1,6 +1,6 @@
 # Hi, I'm Tawfiq 👋
 
-I'm a **Senior Full-Stack Developer** with 3+ years of enterprise experience at Nokia, specializing in scalable web applications and system-level programming. Based in Dubai, UAE, with expertise spanning C systems programming, Python/JavaScript full-stack development, and AI integration.
+I'm a **Senior Full-Stack Developer** with 3+ years of enterprise experience at Nokia, specializing in scalable web applications and system-level programming. Based in Debrecen, Hungary, with expertise spanning C systems programming, Python/JavaScript full-stack development, and AI integration.
 
 🔭 **Currently working on**: Enterprise microservices at Nokia serving 50K+ users  
 🌍 **Experience**: Nokia Solutions & Networks (Budapest) | Artive AI Platform   
@@ -91,4 +91,4 @@ I'm a **Senior Full-Stack Developer** with 3+ years of enterprise experience at 
 
 ---
 
-💡 **Open to opportunities in UAE** | 🤝 **Available for collaboration** | ⚡ **Quick to respond**
+💡 🤝 **Available for collaboration**
