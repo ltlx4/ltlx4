@@ -10,25 +10,20 @@ I'm a **Senior Full-Stack Developer** with 3+ years of enterprise experience at 
 
 ## 🚀 **Featured Projects**
 
-### 🔥 [Full-Stack Task Manager](https://github.com/ltlx4/fullstack-task-manager)
+### 🔥 Full-Stack Task Manager
 **React + Django REST API** | Production-ready task management application with real-time updates
 - JWT authentication, PostgreSQL database, Docker deployment
 - **Tech**: React, Django, PostgreSQL, Redis, Docker
 
-### ⚙️ [System Monitor (C)](https://github.com/ltlx4/system-monitor-c)
+### ⚙️ System Monitor (C)
 **C Systems Programming** | Cross-platform system monitoring tool using Unix/BSD syscalls
 - Real-time process monitoring, memory management, performance metrics
 - **Tech**: C, Unix/BSD syscalls, Linux kernel programming
 
-### 🤖 [AI Content Analyzer](https://github.com/ltlx4/ai-content-analyzer)
+### 🤖 AI Content Analyzer
 **Python + Machine Learning** | AI-powered content analysis and categorization
 - Text classification, sentiment analysis, automated tagging
 - **Tech**: Python, TensorFlow, FastAPI, scikit-learn
-
-### 🐳 [DevOps Pipeline Demo](https://github.com/ltlx4/devops-pipeline-demo)
-**CI/CD & Infrastructure** | Complete DevOps setup with automated testing and deployment
-- Multi-stage pipeline, containerized deployment, monitoring
-- **Tech**: Docker, GitLab CI, AWS, Kubernetes
 
 ---
 
