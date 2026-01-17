@@ -71,5 +71,3 @@ Selenium • Bash Scripting • CI/CD
 - Cisco CCNA Routing and Switching (2020)
 
 ---
-
-*Open to Senior Backend/Systems Developer roles in the UAE*
