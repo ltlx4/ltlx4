@@ -3,9 +3,9 @@
 **Backend/Systems Developer** with 3+ years of enterprise experience at Nokia, specializing in Python/Django web applications, C systems programming (POSIX, network protocols), and DevOps automation.
 
 - 🔧 **Currently**: Building production telecom infrastructure at Nokia  
-- 📍 **Location**: Relocating to UAE (January 25, 2026)  
-- 💻 **Stack**: C • Python • Django • Docker • Linux
-
+- 📍 **Location**: UAE - Dubai
+- 💻 **Stack**: Python • Django • Docker • Linux • C
+  
 ---
 
 ## Professional Experience
@@ -69,5 +69,3 @@ Selenium • Bash Scripting • CI/CD
 - Microsoft Azure AI Essentials (2025)
 - Certified SAFe 6 Practitioner (2024)
 - Cisco CCNA Routing and Switching (2020)
-
----
